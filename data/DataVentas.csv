@@ -1,0 +1,505 @@
+Mes,Venta,Year,Sucursal,Estado,Zona,Var
+Enero,1584624.39,2021,Madero,Tamaulipas,Golfo,-16.52173913
+Enero,160460.40,2021,Tampico,Tamaulipas,Golfo,-17.24137931
+Enero,1369996.58,2021,Altamira,Tamaulipas,Golfo,-17.71428571
+Enero,364734.45,2021,Mante,Tamaulipas,Centro,-15.29411765
+Enero,1016792.35,2021,Victoria,Tamaulipas,Centro,-12.5
+Enero,2146220.50,2021,Reynosa,Tamaulipas,Norte,-15
+Enero,817679.04,2021,Matamoros,Tamaulipas,Norte,-16.92307692
+Enero,905880.14,2021,Nuevo Laredo,Tamaulipas,Norte,3.225806452
+Enero,2073860.90,2021,Tuxpan,Veracruz,Golfo,-13.6
+Enero,2357269.36,2021,Poza Rica,Veracruz,Golfo,-3.703703704
+Enero,943042.37,2021,VeracruzPuerto,Veracruz,Sur,-13.14285714
+Enero,2231628.92,2021,Coatzacoalcos,Veracruz,Sur,-13.68421053
+Enero,1589394.73,2021,Minatitlan,Veracruz,Sur,-17.71428571
+Enero,1195573.31,2021,Jalapa,Veracruz,Sur,-10.4
+Febrero,430039.56,2021,Madero,Tamaulipas,Golfo,-26.95652174
+Febrero,1683515.01,2021,Tampico,Tamaulipas,Golfo,-27.5862069
+Febrero,899186.20,2021,Altamira,Tamaulipas,Golfo,-28
+Febrero,208350.43,2021,Mante,Tamaulipas,Centro,-25.88235294
+Febrero,74743.14,2021,Victoria,Tamaulipas,Centro,-23.4375
+Febrero,1647015.33,2021,Reynosa,Tamaulipas,Norte,-25.625
+Febrero,1604745.68,2021,Matamoros,Tamaulipas,Norte,-27.30769231
+Febrero,602262.65,2021,Nuevo Laredo,Tamaulipas,Norte,-9.677419355
+Febrero,891623.49,2021,Tuxpan,Veracruz,Golfo,-24.4
+Febrero,825252.68,2021,Poza Rica,Veracruz,Golfo,-15.74074074
+Febrero,1743519.07,2021,VeracruzPuerto,Veracruz,Sur,-24
+Febrero,2514107.41,2021,Coatzacoalcos,Veracruz,Sur,-24.47368421
+Febrero,1334852.45,2021,Minatitlan,Veracruz,Sur,-28
+Febrero,283844.22,2021,Jalapa,Veracruz,Sur,-21.6
+Marzo,705377.69,2021,Madero,Tamaulipas,Golfo,4.347826087
+Marzo,2275361.80,2021,Tampico,Tamaulipas,Golfo,3.448275862
+Marzo,59631.37,2021,Altamira,Tamaulipas,Golfo,2.857142857
+Marzo,544715.16,2021,Mante,Tamaulipas,Centro,5.882352941
+Marzo,1570081.63,2021,Victoria,Tamaulipas,Centro,9.375
+Marzo,611995.51,2021,Reynosa,Tamaulipas,Norte,6.25
+Marzo,399829.48,2021,Matamoros,Tamaulipas,Norte,3.846153846
+Marzo,1458777.34,2021,Nuevo Laredo,Tamaulipas,Norte,29.03225806
+Marzo,1032728.00,2021,Tuxpan,Veracruz,Golfo,8
+Marzo,2598115.84,2021,Poza Rica,Veracruz,Golfo,20.37037037
+Marzo,1273233.38,2021,VeracruzPuerto,Veracruz,Sur,8.571428571
+Marzo,200675.30,2021,Coatzacoalcos,Veracruz,Sur,7.894736842
+Marzo,1543659.88,2021,Minatitlan,Veracruz,Sur,2.857142857
+Marzo,50866.44,2021,Jalapa,Veracruz,Sur,12
+Abril,823486.46,2021,Madero,Tamaulipas,Golfo,7.47826087
+Abril,725093.59,2021,Tampico,Tamaulipas,Golfo,6.551724138
+Abril,1261540.65,2021,Altamira,Tamaulipas,Golfo,5.942857143
+Abril,702903.88,2021,Mante,Tamaulipas,Centro,9.058823529
+Abril,799006.20,2021,Victoria,Tamaulipas,Centro,12.65625
+Abril,2552499.97,2021,Reynosa,Tamaulipas,Norte,9.4375
+Abril,2105243.71,2021,Matamoros,Tamaulipas,Norte,6.961538462
+Abril,2427321.11,2021,Nuevo Laredo,Tamaulipas,Norte,32.90322581
+Abril,231733.20,2021,Tuxpan,Veracruz,Golfo,11.24
+Abril,2413211.85,2021,Poza Rica,Veracruz,Golfo,23.98148148
+Abril,3349123.61,2021,VeracruzPuerto,Veracruz,Sur,11.82857143
+Abril,3176181.51,2021,Coatzacoalcos,Veracruz,Sur,11.13157895
+Abril,3554492.91,2021,Minatitlan,Veracruz,Sur,5.942857143
+Abril,2251676.90,2021,Jalapa,Veracruz,Sur,15.36
+Mayo,921089.25,2021,Madero,Tamaulipas,Golfo,6.434782609
+Mayo,1037792.80,2021,Tampico,Tamaulipas,Golfo,5.517241379
+Mayo,911678.06,2021,Altamira,Tamaulipas,Golfo,4.914285714
+Mayo,116284.43,2021,Mante,Tamaulipas,Centro,8
+Mayo,47920.78,2021,Victoria,Tamaulipas,Centro,11.5625
+Mayo,1227860.11,2021,Reynosa,Tamaulipas,Norte,8.375
+Mayo,93128.36,2021,Matamoros,Tamaulipas,Norte,5.923076923
+Mayo,2988592.16,2021,Nuevo Laredo,Tamaulipas,Norte,31.61290323
+Mayo,2437037.51,2021,Tuxpan,Veracruz,Golfo,10.16
+Mayo,2402105.28,2021,Poza Rica,Veracruz,Golfo,22.77777778
+Mayo,2184759.48,2021,VeracruzPuerto,Veracruz,Sur,10.74285714
+Mayo,3127404.84,2021,Coatzacoalcos,Veracruz,Sur,10.05263158
+Mayo,745264.70,2021,Minatitlan,Veracruz,Sur,4.914285714
+Mayo,2831515.02,2021,Jalapa,Veracruz,Sur,14.24
+Junio,742042.23,2021,Madero,Tamaulipas,Golfo,9.565217391
+Junio,2507929.84,2021,Tampico,Tamaulipas,Golfo,8.620689655
+Junio,806271.86,2021,Altamira,Tamaulipas,Golfo,8
+Junio,686660.57,2021,Mante,Tamaulipas,Centro,11.17647059
+Junio,521828.46,2021,Victoria,Tamaulipas,Centro,14.84375
+Junio,3084988.62,2021,Reynosa,Tamaulipas,Norte,11.5625
+Junio,1249896.98,2021,Matamoros,Tamaulipas,Norte,9.038461538
+Junio,473366.53,2021,Nuevo Laredo,Tamaulipas,Norte,35.48387097
+Junio,1965925.87,2021,Tuxpan,Veracruz,Golfo,13.4
+Junio,588128.85,2021,Poza Rica,Veracruz,Golfo,26.38888889
+Junio,3207796.57,2021,VeracruzPuerto,Veracruz,Sur,14
+Junio,2914735.60,2021,Coatzacoalcos,Veracruz,Sur,13.28947368
+Junio,1810857.46,2021,Minatitlan,Veracruz,Sur,8
+Junio,1141473.31,2021,Jalapa,Veracruz,Sur,17.6
+Julio,105436.21,2021,Madero,Tamaulipas,Golfo,10.60869565
+Julio,2135465.83,2021,Tampico,Tamaulipas,Golfo,9.655172414
+Julio,303407.54,2021,Altamira,Tamaulipas,Golfo,9.028571429
+Julio,440386.89,2021,Mante,Tamaulipas,Centro,12.23529412
+Julio,6057.18,2021,Victoria,Tamaulipas,Centro,15.9375
+Julio,1112690.75,2021,Reynosa,Tamaulipas,Norte,12.625
+Julio,2721531.67,2021,Matamoros,Tamaulipas,Norte,10.07692308
+Julio,2092690.07,2021,Nuevo Laredo,Tamaulipas,Norte,36.77419355
+Julio,1232291.50,2021,Tuxpan,Veracruz,Golfo,14.48
+Julio,2615781.97,2021,Poza Rica,Veracruz,Golfo,27.59259259
+Julio,299266.20,2021,VeracruzPuerto,Veracruz,Sur,15.08571429
+Julio,1286096.77,2021,Coatzacoalcos,Veracruz,Sur,14.36842105
+Julio,453911.63,2021,Minatitlan,Veracruz,Sur,9.028571429
+Julio,1803173.07,2021,Jalapa,Veracruz,Sur,18.72
+Agosto,278722.29,2021,Madero,Tamaulipas,Golfo,14.7826087
+Agosto,3018641.69,2021,Tampico,Tamaulipas,Golfo,13.79310345
+Agosto,336409.86,2021,Altamira,Tamaulipas,Golfo,13.14285714
+Agosto,605203.35,2021,Mante,Tamaulipas,Centro,16.47058824
+Agosto,1063813.06,2021,Victoria,Tamaulipas,Centro,20.3125
+Agosto,2663925.63,2021,Reynosa,Tamaulipas,Norte,16.875
+Agosto,140632.41,2021,Matamoros,Tamaulipas,Norte,14.23076923
+Agosto,3499524.01,2021,Nuevo Laredo,Tamaulipas,Norte,41.93548387
+Agosto,2332758.75,2021,Tuxpan,Veracruz,Golfo,18.8
+Agosto,3118179.57,2021,Poza Rica,Veracruz,Golfo,32.40740741
+Agosto,3147697.96,2021,VeracruzPuerto,Veracruz,Sur,19.42857143
+Agosto,914238.61,2021,Coatzacoalcos,Veracruz,Sur,18.68421053
+Agosto,75535.70,2021,Minatitlan,Veracruz,Sur,13.14285714
+Agosto,2276915.10,2021,Jalapa,Veracruz,Sur,23.2
+Septiembre,1704199.94,2021,Madero,Tamaulipas,Golfo,8.52173913
+Septiembre,280737.12,2021,Tampico,Tamaulipas,Golfo,7.586206897
+Septiembre,463297.60,2021,Altamira,Tamaulipas,Golfo,6.971428571
+Septiembre,760744.28,2021,Mante,Tamaulipas,Centro,10.11764706
+Septiembre,157046.07,2021,Victoria,Tamaulipas,Centro,13.75
+Septiembre,641996.12,2021,Reynosa,Tamaulipas,Norte,10.5
+Septiembre,1545947.09,2021,Matamoros,Tamaulipas,Norte,8
+Septiembre,2809934.99,2021,Nuevo Laredo,Tamaulipas,Norte,34.19354839
+Septiembre,2526882.78,2021,Tuxpan,Veracruz,Golfo,12.32
+Septiembre,759415.57,2021,Poza Rica,Veracruz,Golfo,25.18518519
+Septiembre,2578636.78,2021,VeracruzPuerto,Veracruz,Sur,12.91428571
+Septiembre,115015.71,2021,Coatzacoalcos,Veracruz,Sur,12.21052632
+Septiembre,267160.41,2021,Minatitlan,Veracruz,Sur,6.971428571
+Septiembre,1130065.65,2021,Jalapa,Veracruz,Sur,16.48
+Octubre,1746786.34,2021,Madero,Tamaulipas,Golfo,5.391304348
+Octubre,374982.23,2021,Tampico,Tamaulipas,Golfo,4.482758621
+Octubre,1715700.40,2021,Altamira,Tamaulipas,Golfo,3.885714286
+Octubre,405431.37,2021,Mante,Tamaulipas,Centro,6.941176471
+Octubre,1021381.39,2021,Victoria,Tamaulipas,Centro,10.46875
+Octubre,642058.21,2021,Reynosa,Tamaulipas,Norte,7.3125
+Octubre,2077122.68,2021,Matamoros,Tamaulipas,Norte,4.884615385
+Octubre,1646255.29,2021,Nuevo Laredo,Tamaulipas,Norte,30.32258065
+Octubre,2698304.82,2021,Tuxpan,Veracruz,Golfo,9.08
+Octubre,1460392.13,2021,Poza Rica,Veracruz,Golfo,21.57407407
+Octubre,3304465.39,2021,VeracruzPuerto,Veracruz,Sur,9.657142857
+Octubre,380771.46,2021,Coatzacoalcos,Veracruz,Sur,8.973684211
+Octubre,1628744.74,2021,Minatitlan,Veracruz,Sur,3.885714286
+Octubre,1545627.20,2021,Jalapa,Veracruz,Sur,13.12
+Noviembre,228359.73,2021,Madero,Tamaulipas,Golfo,16.86956522
+Noviembre,407891.35,2021,Tampico,Tamaulipas,Golfo,15.86206897
+Noviembre,256177.41,2021,Altamira,Tamaulipas,Golfo,15.2
+Noviembre,399768.17,2021,Mante,Tamaulipas,Centro,18.58823529
+Noviembre,138694.75,2021,Victoria,Tamaulipas,Centro,22.5
+Noviembre,1549213.56,2021,Reynosa,Tamaulipas,Norte,19
+Noviembre,1117854.24,2021,Matamoros,Tamaulipas,Norte,16.30769231
+Noviembre,3359519.48,2021,Nuevo Laredo,Tamaulipas,Norte,44.51612903
+Noviembre,174255.92,2021,Tuxpan,Veracruz,Golfo,20.96
+Noviembre,3429817.46,2021,Poza Rica,Veracruz,Golfo,34.81481481
+Noviembre,940370.08,2021,VeracruzPuerto,Veracruz,Sur,21.6
+Noviembre,1275756.97,2021,Coatzacoalcos,Veracruz,Sur,20.84210526
+Noviembre,132931.29,2021,Minatitlan,Veracruz,Sur,15.2
+Noviembre,1452768.90,2021,Jalapa,Veracruz,Sur,25.44
+Diciembre,2131628.28,2021,Madero,Tamaulipas,Golfo,30.43478261
+Diciembre,3217190.20,2021,Tampico,Tamaulipas,Golfo,29.31034483
+Diciembre,2016099.16,2021,Altamira,Tamaulipas,Golfo,28.57142857
+Diciembre,587126.97,2021,Mante,Tamaulipas,Centro,32.35294118
+Diciembre,990244.69,2021,Victoria,Tamaulipas,Centro,36.71875
+Diciembre,1540753.60,2021,Reynosa,Tamaulipas,Norte,32.8125
+Diciembre,2230557.69,2021,Matamoros,Tamaulipas,Norte,29.80769231
+Diciembre,1935908.70,2021,Nuevo Laredo,Tamaulipas,Norte,61.29032258
+Diciembre,2222115.52,2021,Tuxpan,Veracruz,Golfo,35
+Diciembre,970635.74,2021,Poza Rica,Veracruz,Golfo,50.46296296
+Diciembre,4028797.47,2021,VeracruzPuerto,Veracruz,Sur,35.71428571
+Diciembre,4100171.72,2021,Coatzacoalcos,Veracruz,Sur,34.86842105
+Diciembre,4458233.51,2021,Minatitlan,Veracruz,Sur,28.57142857
+Diciembre,848699.91,2021,Jalapa,Veracruz,Sur,40
+Enero,1204273.15,2022,Madero,Tamaulipas,Golfo,-11.51304348
+Enero,798524.73,2022,Tampico,Tamaulipas,Golfo,-12.27586207
+Enero,125902.64,2022,Altamira,Tamaulipas,Golfo,-12.77714286
+Enero,626168.81,2022,Mante,Tamaulipas,Centro,-10.21176471
+Enero,294624.27,2022,Victoria,Tamaulipas,Centro,-7.25
+Enero,2146967.65,2022,Reynosa,Tamaulipas,Norte,-9.9
+Enero,1980044.68,2022,Matamoros,Tamaulipas,Norte,-11.93846154
+Enero,1675556.97,2022,Nuevo Laredo,Tamaulipas,Norte,9.419354839
+Enero,1310236.54,2022,Tuxpan,Veracruz,Golfo,-8.416
+Enero,1209044.37,2022,Poza Rica,Veracruz,Golfo,2.074074074
+Enero,1501891.58,2022,VeracruzPuerto,Veracruz,Sur,-7.931428571
+Enero,3436790.83,2022,Coatzacoalcos,Veracruz,Sur,-8.505263158
+Enero,208790.45,2022,Minatitlan,Veracruz,Sur,-12.77714286
+Enero,441007.76,2022,Jalapa,Veracruz,Sur,-5.024
+Febrero,937544.87,2022,Madero,Tamaulipas,Golfo,-22.57391304
+Febrero,112841.23,2022,Tampico,Tamaulipas,Golfo,-23.24137931
+Febrero,193107.82,2022,Altamira,Tamaulipas,Golfo,-23.68
+Febrero,120339.42,2022,Mante,Tamaulipas,Centro,-21.43529412
+Febrero,698821.41,2022,Victoria,Tamaulipas,Centro,-18.84375
+Febrero,1329000.98,2022,Reynosa,Tamaulipas,Norte,-21.1625
+Febrero,1899884.11,2022,Matamoros,Tamaulipas,Norte,-22.94615385
+Febrero,2091579.02,2022,Nuevo Laredo,Tamaulipas,Norte,-4.258064516
+Febrero,392564.17,2022,Tuxpan,Veracruz,Golfo,-19.864
+Febrero,482286.31,2022,Poza Rica,Veracruz,Golfo,-10.68518519
+Febrero,1255683.50,2022,VeracruzPuerto,Veracruz,Sur,-19.44
+Febrero,2338529.76,2022,Coatzacoalcos,Veracruz,Sur,-19.94210526
+Febrero,1606601.05,2022,Minatitlan,Veracruz,Sur,-23.68
+Febrero,908564.34,2022,Jalapa,Veracruz,Sur,-16.896
+Marzo,709740.77,2022,Madero,Tamaulipas,Golfo,10.60869565
+Marzo,501103.64,2022,Tampico,Tamaulipas,Golfo,9.655172414
+Marzo,1043168.81,2022,Altamira,Tamaulipas,Golfo,9.028571429
+Marzo,834957.34,2022,Mante,Tamaulipas,Centro,12.23529412
+Marzo,1102253.40,2022,Victoria,Tamaulipas,Centro,15.9375
+Marzo,1484580.93,2022,Reynosa,Tamaulipas,Norte,12.625
+Marzo,387800.51,2022,Matamoros,Tamaulipas,Norte,10.07692308
+Marzo,3508703.90,2022,Nuevo Laredo,Tamaulipas,Norte,36.77419355
+Marzo,989624.24,2022,Tuxpan,Veracruz,Golfo,14.48
+Marzo,1445853.81,2022,Poza Rica,Veracruz,Golfo,27.59259259
+Marzo,3498943.79,2022,VeracruzPuerto,Veracruz,Sur,15.08571429
+Marzo,2739520.42,2022,Coatzacoalcos,Veracruz,Sur,14.36842105
+Marzo,2655731.88,2022,Minatitlan,Veracruz,Sur,9.028571429
+Marzo,378789.21,2022,Jalapa,Veracruz,Sur,18.72
+Abril,1765247.95,2022,Madero,Tamaulipas,Golfo,13.92695652
+Abril,2260883.42,2022,Tampico,Tamaulipas,Golfo,12.94482759
+Abril,797627.51,2022,Altamira,Tamaulipas,Golfo,12.29942857
+Abril,119628.34,2022,Mante,Tamaulipas,Centro,15.60235294
+Abril,365235.72,2022,Victoria,Tamaulipas,Centro,19.415625
+Abril,130591.22,2022,Reynosa,Tamaulipas,Norte,16.00375
+Abril,1469178.30,2022,Matamoros,Tamaulipas,Norte,13.37923077
+Abril,1749611.57,2022,Nuevo Laredo,Tamaulipas,Norte,40.87741935
+Abril,2161005.77,2022,Tuxpan,Veracruz,Golfo,17.9144
+Abril,524760.11,2022,Poza Rica,Veracruz,Golfo,31.42037037
+Abril,2950008.70,2022,VeracruzPuerto,Veracruz,Sur,18.53828571
+Abril,1787604.20,2022,Coatzacoalcos,Veracruz,Sur,17.79947368
+Abril,2107156.87,2022,Minatitlan,Veracruz,Sur,12.29942857
+Abril,413802.23,2022,Jalapa,Veracruz,Sur,22.2816
+Mayo,413336.44,2022,Madero,Tamaulipas,Golfo,12.82086957
+Mayo,1722642.84,2022,Tampico,Tamaulipas,Golfo,11.84827586
+Mayo,838345.28,2022,Altamira,Tamaulipas,Golfo,11.20914286
+Mayo,529750.32,2022,Mante,Tamaulipas,Centro,14.48
+Mayo,1212903.75,2022,Victoria,Tamaulipas,Centro,18.25625
+Mayo,1977351.24,2022,Reynosa,Tamaulipas,Norte,14.8775
+Mayo,233327.76,2022,Matamoros,Tamaulipas,Norte,12.27846154
+Mayo,2870245.20,2022,Nuevo Laredo,Tamaulipas,Norte,39.50967742
+Mayo,1705479.07,2022,Tuxpan,Veracruz,Golfo,16.7696
+Mayo,1953329.09,2022,Poza Rica,Veracruz,Golfo,30.14444444
+Mayo,3949826.34,2022,VeracruzPuerto,Veracruz,Sur,17.38742857
+Mayo,4388509.29,2022,Coatzacoalcos,Veracruz,Sur,16.65578947
+Mayo,397722.76,2022,Minatitlan,Veracruz,Sur,11.20914286
+Mayo,1538943.56,2022,Jalapa,Veracruz,Sur,21.0944
+Junio,2324883.86,2022,Madero,Tamaulipas,Golfo,16.13913043
+Junio,632890.54,2022,Tampico,Tamaulipas,Golfo,15.13793103
+Junio,1098055.22,2022,Altamira,Tamaulipas,Golfo,14.48
+Junio,490662.22,2022,Mante,Tamaulipas,Centro,17.84705882
+Junio,1265971.16,2022,Victoria,Tamaulipas,Centro,21.734375
+Junio,1852277.49,2022,Reynosa,Tamaulipas,Norte,18.25625
+Junio,2659910.66,2022,Matamoros,Tamaulipas,Norte,15.58076923
+Junio,1092720.79,2022,Nuevo Laredo,Tamaulipas,Norte,43.61290323
+Junio,1214797.01,2022,Tuxpan,Veracruz,Golfo,20.204
+Junio,2380929.14,2022,Poza Rica,Veracruz,Golfo,33.97222222
+Junio,3183536.32,2022,VeracruzPuerto,Veracruz,Sur,20.84
+Junio,1938585.70,2022,Coatzacoalcos,Veracruz,Sur,20.08684211
+Junio,1160529.86,2022,Minatitlan,Veracruz,Sur,14.48
+Junio,2041237.89,2022,Jalapa,Veracruz,Sur,24.656
+Julio,1504626.67,2022,Madero,Tamaulipas,Golfo,17.24521739
+Julio,3272321.29,2022,Tampico,Tamaulipas,Golfo,16.23448276
+Julio,881077.52,2022,Altamira,Tamaulipas,Golfo,15.57028571
+Julio,887455.89,2022,Mante,Tamaulipas,Centro,18.96941176
+Julio,1176924.09,2022,Victoria,Tamaulipas,Centro,22.89375
+Julio,1697231.48,2022,Reynosa,Tamaulipas,Norte,19.3825
+Julio,324131.38,2022,Matamoros,Tamaulipas,Norte,16.68153846
+Julio,71251.58,2022,Nuevo Laredo,Tamaulipas,Norte,44.98064516
+Julio,1260140.63,2022,Tuxpan,Veracruz,Golfo,21.3488
+Julio,3311458.28,2022,Poza Rica,Veracruz,Golfo,35.24814815
+Julio,3732184.73,2022,VeracruzPuerto,Veracruz,Sur,21.99085714
+Julio,1214640.19,2022,Coatzacoalcos,Veracruz,Sur,21.23052632
+Julio,3255558.59,2022,Minatitlan,Veracruz,Sur,15.57028571
+Julio,2612703.99,2022,Jalapa,Veracruz,Sur,25.8432
+Agosto,1164180.03,2022,Madero,Tamaulipas,Golfo,21.66956522
+Agosto,451308.36,2022,Tampico,Tamaulipas,Golfo,20.62068966
+Agosto,36688.37,2022,Altamira,Tamaulipas,Golfo,19.93142857
+Agosto,316209.42,2022,Mante,Tamaulipas,Centro,23.45882353
+Agosto,1809527.75,2022,Victoria,Tamaulipas,Centro,27.53125
+Agosto,862408.11,2022,Reynosa,Tamaulipas,Norte,23.8875
+Agosto,2046268.69,2022,Matamoros,Tamaulipas,Norte,21.08461538
+Agosto,4341835.59,2022,Nuevo Laredo,Tamaulipas,Norte,50.4516129
+Agosto,2923124.61,2022,Tuxpan,Veracruz,Golfo,25.928
+Agosto,593450.30,2022,Poza Rica,Veracruz,Golfo,40.35185185
+Agosto,2168930.26,2022,VeracruzPuerto,Veracruz,Sur,26.59428571
+Agosto,2975581.13,2022,Coatzacoalcos,Veracruz,Sur,25.80526316
+Agosto,1134824.40,2022,Minatitlan,Veracruz,Sur,19.93142857
+Agosto,2637897.74,2022,Jalapa,Veracruz,Sur,30.592
+Septiembre,1734306.63,2022,Madero,Tamaulipas,Golfo,15.03304348
+Septiembre,117193.12,2022,Tampico,Tamaulipas,Golfo,14.04137931
+Septiembre,1230415.89,2022,Altamira,Tamaulipas,Golfo,13.38971429
+Septiembre,369763.80,2022,Mante,Tamaulipas,Centro,16.72470588
+Septiembre,853509.50,2022,Victoria,Tamaulipas,Centro,20.575
+Septiembre,2806093.93,2022,Reynosa,Tamaulipas,Norte,17.13
+Septiembre,745722.67,2022,Matamoros,Tamaulipas,Norte,14.48
+Septiembre,671773.33,2022,Nuevo Laredo,Tamaulipas,Norte,42.24516129
+Septiembre,211086.37,2022,Tuxpan,Veracruz,Golfo,19.0592
+Septiembre,2067289.06,2022,Poza Rica,Veracruz,Golfo,32.6962963
+Septiembre,3565434.52,2022,VeracruzPuerto,Veracruz,Sur,19.68914286
+Septiembre,3256313.45,2022,Coatzacoalcos,Veracruz,Sur,18.94315789
+Septiembre,246686.98,2022,Minatitlan,Veracruz,Sur,13.38971429
+Septiembre,1997369.55,2022,Jalapa,Veracruz,Sur,23.4688
+Octubre,146290.77,2022,Madero,Tamaulipas,Golfo,11.71478261
+Octubre,1108772.26,2022,Tampico,Tamaulipas,Golfo,10.75172414
+Octubre,170124.60,2022,Altamira,Tamaulipas,Golfo,10.11885714
+Octubre,201010.74,2022,Mante,Tamaulipas,Centro,13.35764706
+Octubre,132366.99,2022,Victoria,Tamaulipas,Centro,17.096875
+Octubre,3269019.80,2022,Reynosa,Tamaulipas,Norte,13.75125
+Octubre,2784196.88,2022,Matamoros,Tamaulipas,Norte,11.17769231
+Octubre,2114851.07,2022,Nuevo Laredo,Tamaulipas,Norte,38.14193548
+Octubre,1156341.27,2022,Tuxpan,Veracruz,Golfo,15.6248
+Octubre,911970.39,2022,Poza Rica,Veracruz,Golfo,28.86851852
+Octubre,1767059.54,2022,VeracruzPuerto,Veracruz,Sur,16.23657143
+Octubre,2348356.19,2022,Coatzacoalcos,Veracruz,Sur,15.51210526
+Octubre,2362523.76,2022,Minatitlan,Veracruz,Sur,10.11885714
+Octubre,661736.74,2022,Jalapa,Veracruz,Sur,19.9072
+Noviembre,1081173.50,2022,Madero,Tamaulipas,Golfo,23.88173913
+Noviembre,2587350.33,2022,Tampico,Tamaulipas,Golfo,22.8137931
+Noviembre,94451.70,2022,Altamira,Tamaulipas,Golfo,22.112
+Noviembre,46577.00,2022,Mante,Tamaulipas,Centro,25.70352941
+Noviembre,132895.73,2022,Victoria,Tamaulipas,Centro,29.85
+Noviembre,2333128.17,2022,Reynosa,Tamaulipas,Norte,26.14
+Noviembre,2611223.68,2022,Matamoros,Tamaulipas,Norte,23.28615385
+Noviembre,3478170.37,2022,Nuevo Laredo,Tamaulipas,Norte,53.18709677
+Noviembre,520859.44,2022,Tuxpan,Veracruz,Golfo,28.2176
+Noviembre,3601772.19,2022,Poza Rica,Veracruz,Golfo,42.9037037
+Noviembre,4394524.39,2022,VeracruzPuerto,Veracruz,Sur,28.896
+Noviembre,1298600.36,2022,Coatzacoalcos,Veracruz,Sur,28.09263158
+Noviembre,4220752.36,2022,Minatitlan,Veracruz,Sur,22.112
+Noviembre,3074847.75,2022,Jalapa,Veracruz,Sur,32.9664
+Diciembre,2738251.47,2022,Madero,Tamaulipas,Golfo,38.26086957
+Diciembre,2719344.56,2022,Tampico,Tamaulipas,Golfo,37.06896552
+Diciembre,2276816.76,2022,Altamira,Tamaulipas,Golfo,36.28571429
+Diciembre,322289.84,2022,Mante,Tamaulipas,Centro,40.29411765
+Diciembre,88649.67,2022,Victoria,Tamaulipas,Centro,44.921875
+Diciembre,2513646.19,2022,Reynosa,Tamaulipas,Norte,40.78125
+Diciembre,1226243.12,2022,Matamoros,Tamaulipas,Norte,37.59615385
+Diciembre,1639792.15,2022,Nuevo Laredo,Tamaulipas,Norte,70.96774194
+Diciembre,1852797.08,2022,Tuxpan,Veracruz,Golfo,43.1
+Diciembre,1841434.56,2022,Poza Rica,Veracruz,Golfo,59.49074074
+Diciembre,4121609.12,2022,VeracruzPuerto,Veracruz,Sur,43.85714286
+Diciembre,2359683.47,2022,Coatzacoalcos,Veracruz,Sur,42.96052632
+Diciembre,3667219.87,2022,Minatitlan,Veracruz,Sur,36.28571429
+Diciembre,2994603.27,2022,Jalapa,Veracruz,Sur,48.4
+Enero,1140915.65,2020,Madero,Tamaulipas,Golfo,-37.39130435
+Enero,667969.02,2020,Tampico,Tamaulipas,Golfo,-37.93103448
+Enero,311093.11,2020,Altamira,Tamaulipas,Golfo,-38.28571429
+Enero,292937.80,2020,Mante,Tamaulipas,Centro,-36.47058824
+Enero,183229.98,2020,Victoria,Tamaulipas,Centro,-34.375
+Enero,31470.30,2020,Reynosa,Tamaulipas,Norte,-36.25
+Enero,412756.33,2020,Matamoros,Tamaulipas,Norte,-37.69230769
+Enero,2221453.15,2020,Nuevo Laredo,Tamaulipas,Norte,-22.58064516
+Enero,881333.86,2020,Tuxpan,Veracruz,Golfo,-35.2
+Enero,348998.85,2020,Poza Rica,Veracruz,Golfo,-27.77777778
+Enero,1199671.65,2020,VeracruzPuerto,Veracruz,Sur,-34.85714286
+Enero,1817521.92,2020,Coatzacoalcos,Veracruz,Sur,-35.26315789
+Enero,804513.87,2020,Minatitlan,Veracruz,Sur,-38.28571429
+Enero,253661.74,2020,Jalapa,Veracruz,Sur,-32.8
+Febrero,217437.34,2020,Madero,Tamaulipas,Golfo,-45.2173913
+Febrero,1329146.76,2020,Tampico,Tamaulipas,Golfo,-45.68965517
+Febrero,392115.99,2020,Altamira,Tamaulipas,Golfo,-46
+Febrero,346889.72,2020,Mante,Tamaulipas,Centro,-44.41176471
+Febrero,816963.02,2020,Victoria,Tamaulipas,Centro,-42.578125
+Febrero,1483927.67,2020,Reynosa,Tamaulipas,Norte,-44.21875
+Febrero,1309029.29,2020,Matamoros,Tamaulipas,Norte,-45.48076923
+Febrero,441199.60,2020,Nuevo Laredo,Tamaulipas,Norte,-32.25806452
+Febrero,250726.12,2020,Tuxpan,Veracruz,Golfo,-43.3
+Febrero,542777.31,2020,Poza Rica,Veracruz,Golfo,-36.80555556
+Febrero,167475.67,2020,VeracruzPuerto,Veracruz,Sur,-43
+Febrero,1317705.34,2020,Coatzacoalcos,Veracruz,Sur,-43.35526316
+Febrero,43180.88,2020,Minatitlan,Veracruz,Sur,-46
+Febrero,106889.74,2020,Jalapa,Veracruz,Sur,-41.2
+Marzo,560610.26,2020,Madero,Tamaulipas,Golfo,-21.73913043
+Marzo,5737.53,2020,Tampico,Tamaulipas,Golfo,-22.4137931
+Marzo,1304413.05,2020,Altamira,Tamaulipas,Golfo,-22.85714286
+Marzo,185995.70,2020,Mante,Tamaulipas,Centro,-20.58823529
+Marzo,810618.82,2020,Victoria,Tamaulipas,Centro,-17.96875
+Marzo,2109737.24,2020,Reynosa,Tamaulipas,Norte,-20.3125
+Marzo,947429.01,2020,Matamoros,Tamaulipas,Norte,-22.11538462
+Marzo,943134.41,2020,Nuevo Laredo,Tamaulipas,Norte,-3.225806452
+Marzo,776081.04,2020,Tuxpan,Veracruz,Golfo,-19
+Marzo,1020357.92,2020,Poza Rica,Veracruz,Golfo,-9.722222222
+Marzo,2697039.35,2020,VeracruzPuerto,Veracruz,Sur,-18.57142857
+Marzo,1274462.94,2020,Coatzacoalcos,Veracruz,Sur,-19.07894737
+Marzo,246240.23,2020,Minatitlan,Veracruz,Sur,-22.85714286
+Marzo,1943340.29,2020,Jalapa,Veracruz,Sur,-16
+Abril,728837.21,2020,Madero,Tamaulipas,Golfo,-19.39130435
+Abril,797209.00,2020,Tampico,Tamaulipas,Golfo,-20.0862069
+Abril,807803.10,2020,Altamira,Tamaulipas,Golfo,-20.54285714
+Abril,587373.74,2020,Mante,Tamaulipas,Centro,-18.20588235
+Abril,348671.22,2020,Victoria,Tamaulipas,Centro,-15.5078125
+Abril,2385169.31,2020,Reynosa,Tamaulipas,Norte,-17.921875
+Abril,1292391.24,2020,Matamoros,Tamaulipas,Norte,-19.77884615
+Abril,2853570.30,2020,Nuevo Laredo,Tamaulipas,Norte,-0.322580645
+Abril,579350.23,2020,Tuxpan,Veracruz,Golfo,-16.57
+Abril,1169796.99,2020,Poza Rica,Veracruz,Golfo,-7.013888889
+Abril,360373.65,2020,VeracruzPuerto,Veracruz,Sur,-16.12857143
+Abril,277181.34,2020,Coatzacoalcos,Veracruz,Sur,-16.65131579
+Abril,2033997.16,2020,Minatitlan,Veracruz,Sur,-20.54285714
+Abril,272456.71,2020,Jalapa,Veracruz,Sur,-13.48
+Mayo,1310306.63,2020,Madero,Tamaulipas,Golfo,-20.17391304
+Mayo,397158.16,2020,Tampico,Tamaulipas,Golfo,-20.86206897
+Mayo,201872.23,2020,Altamira,Tamaulipas,Golfo,-21.31428571
+Mayo,73062.02,2020,Mante,Tamaulipas,Centro,-19
+Mayo,214413.75,2020,Victoria,Tamaulipas,Centro,-16.328125
+Mayo,2212937.61,2020,Reynosa,Tamaulipas,Norte,-18.71875
+Mayo,770698.68,2020,Matamoros,Tamaulipas,Norte,-20.55769231
+Mayo,2703285.94,2020,Nuevo Laredo,Tamaulipas,Norte,-1.290322581
+Mayo,790347.46,2020,Tuxpan,Veracruz,Golfo,-17.38
+Mayo,407076.89,2020,Poza Rica,Veracruz,Golfo,-7.916666667
+Mayo,2623431.93,2020,VeracruzPuerto,Veracruz,Sur,-16.94285714
+Mayo,422560.78,2020,Coatzacoalcos,Veracruz,Sur,-17.46052632
+Mayo,2267040.25,2020,Minatitlan,Veracruz,Sur,-21.31428571
+Mayo,1664195.96,2020,Jalapa,Veracruz,Sur,-14.32
+Junio,1843729.88,2020,Madero,Tamaulipas,Golfo,-17.82608696
+Junio,902804.39,2020,Tampico,Tamaulipas,Golfo,-18.53448276
+Junio,1154676.24,2020,Altamira,Tamaulipas,Golfo,-19
+Junio,250160.97,2020,Mante,Tamaulipas,Centro,-16.61764706
+Junio,1174605.15,2020,Victoria,Tamaulipas,Centro,-13.8671875
+Junio,1807642.46,2020,Reynosa,Tamaulipas,Norte,-16.328125
+Junio,71373.44,2020,Matamoros,Tamaulipas,Norte,-18.22115385
+Junio,1730780.95,2020,Nuevo Laredo,Tamaulipas,Norte,1.612903226
+Junio,397873.01,2020,Tuxpan,Veracruz,Golfo,-14.95
+Junio,2276586.10,2020,Poza Rica,Veracruz,Golfo,-5.208333333
+Junio,711649.32,2020,VeracruzPuerto,Veracruz,Sur,-14.5
+Junio,3168569.73,2020,Coatzacoalcos,Veracruz,Sur,-15.03289474
+Junio,579557.47,2020,Minatitlan,Veracruz,Sur,-19
+Junio,641400.59,2020,Jalapa,Veracruz,Sur,-11.8
+Julio,533011.25,2020,Madero,Tamaulipas,Golfo,-17.04347826
+Julio,1932943.64,2020,Tampico,Tamaulipas,Golfo,-17.75862069
+Julio,453131.69,2020,Altamira,Tamaulipas,Golfo,-18.22857143
+Julio,533288.18,2020,Mante,Tamaulipas,Centro,-15.82352941
+Julio,110671.72,2020,Victoria,Tamaulipas,Centro,-13.046875
+Julio,1094850.09,2020,Reynosa,Tamaulipas,Norte,-15.53125
+Julio,499568.06,2020,Matamoros,Tamaulipas,Norte,-17.44230769
+Julio,731105.92,2020,Nuevo Laredo,Tamaulipas,Norte,2.580645161
+Julio,1795249.83,2020,Tuxpan,Veracruz,Golfo,-14.14
+Julio,1327306.80,2020,Poza Rica,Veracruz,Golfo,-4.305555556
+Julio,1463705.56,2020,VeracruzPuerto,Veracruz,Sur,-13.68571429
+Julio,74713.13,2020,Coatzacoalcos,Veracruz,Sur,-14.22368421
+Julio,259115.91,2020,Minatitlan,Veracruz,Sur,-18.22857143
+Julio,828178.77,2020,Jalapa,Veracruz,Sur,-10.96
+Agosto,738764.10,2020,Madero,Tamaulipas,Golfo,-13.91304348
+Agosto,954960.85,2020,Tampico,Tamaulipas,Golfo,-14.65517241
+Agosto,747636.34,2020,Altamira,Tamaulipas,Golfo,-15.14285714
+Agosto,197725.79,2020,Mante,Tamaulipas,Centro,-12.64705882
+Agosto,731941.56,2020,Victoria,Tamaulipas,Centro,-9.765625
+Agosto,8547.18,2020,Reynosa,Tamaulipas,Norte,-12.34375
+Agosto,191515.55,2020,Matamoros,Tamaulipas,Norte,-14.32692308
+Agosto,1738380.16,2020,Nuevo Laredo,Tamaulipas,Norte,6.451612903
+Agosto,1721810.34,2020,Tuxpan,Veracruz,Golfo,-10.9
+Agosto,538103.26,2020,Poza Rica,Veracruz,Golfo,-0.694444444
+Agosto,3113797.06,2020,VeracruzPuerto,Veracruz,Sur,-10.42857143
+Agosto,1405998.97,2020,Coatzacoalcos,Veracruz,Sur,-10.98684211
+Agosto,825102.09,2020,Minatitlan,Veracruz,Sur,-15.14285714
+Agosto,1780283.81,2020,Jalapa,Veracruz,Sur,-7.6
+Septiembre,953286.31,2020,Madero,Tamaulipas,Golfo,-18.60869565
+Septiembre,1015886.53,2020,Tampico,Tamaulipas,Golfo,-19.31034483
+Septiembre,762403.11,2020,Altamira,Tamaulipas,Golfo,-19.77142857
+Septiembre,270503.93,2020,Mante,Tamaulipas,Centro,-17.41176471
+Septiembre,146927.00,2020,Victoria,Tamaulipas,Centro,-14.6875
+Septiembre,1203632.79,2020,Reynosa,Tamaulipas,Norte,-17.125
+Septiembre,2009066.18,2020,Matamoros,Tamaulipas,Norte,-19
+Septiembre,2190375.64,2020,Nuevo Laredo,Tamaulipas,Norte,0.64516129
+Septiembre,1675753.67,2020,Tuxpan,Veracruz,Golfo,-15.76
+Septiembre,1294570.98,2020,Poza Rica,Veracruz,Golfo,-6.111111111
+Septiembre,1815255.96,2020,VeracruzPuerto,Veracruz,Sur,-15.31428571
+Septiembre,779337.33,2020,Coatzacoalcos,Veracruz,Sur,-15.84210526
+Septiembre,416561.99,2020,Minatitlan,Veracruz,Sur,-19.77142857
+Septiembre,407673.63,2020,Jalapa,Veracruz,Sur,-12.64
+Octubre,882920.89,2020,Madero,Tamaulipas,Golfo,-20.95652174
+Octubre,1849702.49,2020,Tampico,Tamaulipas,Golfo,-21.63793103
+Octubre,416164.80,2020,Altamira,Tamaulipas,Golfo,-22.08571429
+Octubre,393055.61,2020,Mante,Tamaulipas,Centro,-19.79411765
+Octubre,1183081.38,2020,Victoria,Tamaulipas,Centro,-17.1484375
+Octubre,1835088.05,2020,Reynosa,Tamaulipas,Norte,-19.515625
+Octubre,1934721.84,2020,Matamoros,Tamaulipas,Norte,-21.33653846
+Octubre,353977.27,2020,Nuevo Laredo,Tamaulipas,Norte,-2.258064516
+Octubre,1830660.22,2020,Tuxpan,Veracruz,Golfo,-18.19
+Octubre,2148785.09,2020,Poza Rica,Veracruz,Golfo,-8.819444444
+Octubre,2681772.99,2020,VeracruzPuerto,Veracruz,Sur,-17.75714286
+Octubre,902549.03,2020,Coatzacoalcos,Veracruz,Sur,-18.26973684
+Octubre,2401431.71,2020,Minatitlan,Veracruz,Sur,-22.08571429
+Octubre,2002827.83,2020,Jalapa,Veracruz,Sur,-15.16
+Noviembre,1824067.79,2020,Madero,Tamaulipas,Golfo,-12.34782609
+Noviembre,430707.07,2020,Tampico,Tamaulipas,Golfo,-13.10344828
+Noviembre,1394948.98,2020,Altamira,Tamaulipas,Golfo,-13.6
+Noviembre,518262.00,2020,Mante,Tamaulipas,Centro,-11.05882353
+Noviembre,1188767.96,2020,Victoria,Tamaulipas,Centro,-8.125
+Noviembre,1365890.44,2020,Reynosa,Tamaulipas,Norte,-10.75
+Noviembre,44967.19,2020,Matamoros,Tamaulipas,Norte,-12.76923077
+Noviembre,2624597.40,2020,Nuevo Laredo,Tamaulipas,Norte,8.387096774
+Noviembre,607178.05,2020,Tuxpan,Veracruz,Golfo,-9.28
+Noviembre,1110116.56,2020,Poza Rica,Veracruz,Golfo,1.111111111
+Noviembre,1332529.79,2020,VeracruzPuerto,Veracruz,Sur,-8.8
+Noviembre,1816047.71,2020,Coatzacoalcos,Veracruz,Sur,-9.368421053
+Noviembre,1518811.95,2020,Minatitlan,Veracruz,Sur,-13.6
+Noviembre,2278289.90,2020,Jalapa,Veracruz,Sur,-5.92
+Diciembre,101079.77,2020,Madero,Tamaulipas,Golfo,-2.173913043
+Diciembre,2557411.99,2020,Tampico,Tamaulipas,Golfo,-3.017241379
+Diciembre,219818.59,2020,Altamira,Tamaulipas,Golfo,-3.571428571
+Diciembre,490409.01,2020,Mante,Tamaulipas,Centro,-0.735294118
+Diciembre,741318.25,2020,Victoria,Tamaulipas,Centro,2.5390625
+Diciembre,1982248.99,2020,Reynosa,Tamaulipas,Norte,-0.390625
+Diciembre,703015.66,2020,Matamoros,Tamaulipas,Norte,-2.644230769
+Diciembre,3340446.98,2020,Nuevo Laredo,Tamaulipas,Norte,20.96774194
+Diciembre,1351662.64,2020,Tuxpan,Veracruz,Golfo,1.25
+Diciembre,366390.14,2020,Poza Rica,Veracruz,Golfo,12.84722222
+Diciembre,621885.20,2020,VeracruzPuerto,Veracruz,Sur,1.785714286
+Diciembre,521089.62,2020,Coatzacoalcos,Veracruz,Sur,1.151315789
+Diciembre,2198172.76,2020,Minatitlan,Veracruz,Sur,-3.571428571
+Diciembre,2366280.35,2020,Jalapa,Veracruz,Sur,5
